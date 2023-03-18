@@ -1,0 +1,37 @@
+Qes : Write a bug report for a bug in the login page that the submit button is not working
+
+By using the JIRA tool we can report the bug to Dev team 
+
+First clict on the Create button 
+
+Issue type - Bug 
+
+Summary - In login page the Submit button is not working 
+
+Components - We need to assign the but to Dev Team
+
+Description 
+What is the problem 
+	The submit button is not working.
+What is Expected
+	The account should logged in. 	
+What is happened actually
+	When i am trying to login my account the submit button is not working. Nothing is happen when i am clicking the submit button. 
+
+(for our convience we can attach the Picture or video clips)
+
+Priority - Highest 
+
+Lables - Login page issue 
+
+Linked issue - blocks
+
+Issue - Login page
+
+(we can also give epic link)
+
+Assignee - Assigned to Dev Team
+
+After that click the create button 
+
+The bug has been created successfully 
