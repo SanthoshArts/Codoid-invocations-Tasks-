@@ -1,0 +1,35 @@
+By using the JIRA tool we can report the bug to Dev team 
+
+First clict on the Create button 
+
+Issue type - Bug 
+
+Summary - Multimedia files sending is not working  
+
+Components - We need to assign this to Dev Team
+
+Description 
+What is the problem 
+	The user can't able to send multimedia files 
+What is Expected
+	The user can able to send multimedia files. 	
+What is happened actually
+	When i am trying to send files to friends the multimedia option is not working. Nothing is happen when i am clicking the multimedia option. 
+
+(for our convience we can attach the Picture or video clips)
+
+Priority - Highest 
+
+Lables - File transfer issue 
+
+Linked issue - blocks
+
+Issue - Files sharing page
+
+(we can also give epic link)
+
+Assignee - Assigned to Dev Team
+
+After that click the create button 
+
+The bug has been created successfully
