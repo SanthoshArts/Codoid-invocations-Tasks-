@@ -1,7 +1,7 @@
 public class MethodOverloading {
 
 	// Method overloading Changing datatypes and changing number of arguments
-
+	// Method overloading : In a same method name but different types of data types or different number of arguments present in a same class 
 	static void value(int a, int b, int c) {
 		System.out.println(a+b+c);
 	}
